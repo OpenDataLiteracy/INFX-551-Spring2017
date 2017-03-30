@@ -1,5 +1,7 @@
 # INFX 551 Foundations of Data Curation
 
+What even is this? This is a markup language called markdown :/  This is a really simple syntax - its a lot like editing Wikipedia - see some directions [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 First steps: 
 
 1. `Fork` this repository 
