@@ -10,7 +10,7 @@ Your should begin with a brief 3-5 sentence overview of the data, publisher, and
 ###Elements 
 Elementsthat characterize the data available (or at least published in summary form) on the web: Domains served by the data; Obligation / Motivation for publishing the data; Potential ways that the domains will use the data; Quality (this will vary – we’ll discuss in class); Lineage (provenance); Size; Type / Format; Rate of Change; Lifespan; Potential audiences.
 
-###Positive Aspecs
+###Positive Aspects
 Positive aspects of the published data.
 
 ###Negative Aspects
