@@ -1,4 +1,4 @@
-##Discussion write-up
+## Discussion write-up
 
 During each session your team should try to take notes that will be helpful for future work. 
 
