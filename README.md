@@ -20,6 +20,6 @@ There are a number of folders, and I suggest keeping the file strucutre as I hav
 5. Use-Cases: For your second assignment you will write up a use-case following the W3C format for Data on the Web Best Practices. The use-case will be related to the quarter project, so I'd like you to place all of these in the same folder. If you write this document as a `.doc` you can use an online [tool](https://word-to-markdown.herokuapp.com/) to convert to markdown `.md`. 
 
 
-
+Let's try something like a commit. Or no?
 
 
