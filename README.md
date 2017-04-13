@@ -10,7 +10,7 @@ Next steps:
 1. `Fork` this repository 
 2. Add me `nniiicc`  and your teammates as a collaborator 
 3. Change this read me file (see note below on markdown). Add the title of your project, and a brief description.
-4. Go to 'Settings' and make sure the 'Issues' box is checked. (This allows your forked repository to have its own set of issues)
+4. Go to `Settings` and make sure the `Issues` box is checked. (This allows your forked repository to have its own set of issues)
 
 There are a number of folders, and I suggest keeping the file strucutre as I have arranged it. This inlcudes: 
 
