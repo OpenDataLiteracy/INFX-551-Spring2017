@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>National Household Education Survey, 1999</dc:title>
+  <dc:creator>United States Department of Education. National Center for Education Statistics</dc:creator>
+  <dc:subject>adult education</dc:subject>
+  <dc:subject>basic skills</dc:subject>
+  <dc:subject>child development</dc:subject>
+  <dc:subject>classroom environment</dc:subject>
+  <dc:subject>community participation</dc:subject>
+  <dc:subject>early childhood education</dc:subject>
+  <dc:subject>educational programs</dc:subject>
+  <dc:subject>English as a Second Language</dc:subject>
+  <dc:subject>families</dc:subject>
+  <dc:subject>home environment</dc:subject>
+  <dc:subject>households</dc:subject>
+  <dc:subject>parental attitudes</dc:subject>
+  <dc:subject>parental influence</dc:subject>
+  <dc:subject>participation</dc:subject>
+  <dc:subject>secondary education</dc:subject>
+  <dc:subject>youths</dc:subject>
+  <dc:description>The National Household Education Survey (NHES) reports on the condition of education in the United States by collecting data at the household level rather than using a traditional, school-based data collection system. The surveys attempt to address many current issues in education, such as preprimary education, school safety and discipline, adult education, and activities related to citizenship. This survey included three topical survey components: a Parent Interview, a Youth Interview, and an Adult Education Interview. The Parent Interview (Part 1, Parent Survey Data) collected data on a variety of topics, including early childhood program participation, types and frequency of family involvement in children's schooling, school practices to involve and support families, learning activities with children outside of school, and plans for their children's postsecondary education. The Adult Education Interview (Part 2, Adult Education Survey Data) gathered data on type of adult education program enrolled in, employer support, and degree sought for six types of adult educational activities, including English as a second language, adult basic education, credential programs, apprenticeships, work-related courses, and personal development courses. The Youth Interview (Part 3, Youth Survey Data) elicited information from youths in the 6th through 12th grades whose parents had completed a Parent Interview. Respondents were asked about school and family environments, civic involvement and community service, and plans for postsecondary education.</dc:description>
+  <dc:identifier>3607</dc:identifier>
+  <dc:identifier>http://doi.org/10.3886/ICPSR03607.v1</dc:identifier>
+  <dc:date>01-18-2006</dc:date>
+  <dc:type>survey data</dc:type>
+  <dc:source>random-digit-dial (RDD) computer-assisted telephone interview (CATI)</dc:source>
+  <dc:coverage>United States</dc:coverage>
+  <dc:coverage>1999</dc:coverage>
+</oai_dc:dc>

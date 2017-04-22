@@ -1,0 +1,25 @@
+{
+
+  "accessLevel": "public",
+  "accrualPeriodicity": "R/P0.33W",
+  "bureauCode": ["005:45"],
+  "contactPoint": {"@type": "vcard:Contact",
+  "fn": "Edward Ragland",
+  "hasEmail": "mailto:DirectoryUpdates@ams.usda.gov"},
+  "description": "Longitude and latitude, state, address, name, and zip code of Farmers Markets in the United States",
+  "distribution": [{"@type": "dcat:Distribution",
+  "downloadURL": "https://www.ams.usda.gov/AMSv1.0/getfile?dDocName=STELPRDC5087258",
+  "mediaType": "application/vnd.ms-excel",
+  "title": "Web Page"}],
+  "identifier": "USDA-4383",
+  "issued": "2010-10-01",
+  "keyword": ["Baked Goods", "Butter", "Cheese", "Crafts", "Dairy", "Direct to Consumer", "Farmers Markets", "Flowers", "Fresh Fruit", "Herbs", "Honey", "Local Food", "Maple", "Meat", "Nuts", "Organic", "Plants", "Prepared Food", "Preserves", "Processed Food", "Seafood", "Vegetables", "Yogurt"],
+  "license": "https://creativecommons.org/licenses/by/4.0",
+  "modified": "2014-12-23",
+  "programCode": ["005:047"],
+  "publisher": {"@type": "org:Organization", "name": "Agricultural Marketing Service, Department of Agriculture"},
+  "references": ["https://apps.ams.usda.gov/FarmersMarketsExport/ExcelExport.aspx"],
+  "spatial": "United States",
+  "title": "Farmers Markets Directory and Geographic Data"
+
+}

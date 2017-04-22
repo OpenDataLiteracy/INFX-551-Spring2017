@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<codeBook xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>Metadata record for National Household Education Survey, 1999</titl>
+        <IDNo agency="ICPSR">3607</IDNo>
+      </titlStmt>
+      <prodStmt>
+        <producer abbr="ICPSR">Inter-university Consortium for Political and Social Research</producer>
+        <copyright>ICPSR metadata records are licensed under a Creative Commons Attribution-Noncommercial 3.0 United States License.</copyright>
+      </prodStmt>
+      <verStmt>
+        <version date="2017-04-22">2017-04-22</version>
+      </verStmt>
+      <holdings URI="http://www.icpsr.umich.edu/icpsrweb/ICPSR/ddi25/3607"/>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>National Household Education Survey, 1999</titl>
+        <IDNo agency="ICPSR">3607</IDNo>
+        <IDNo agency="dara">10.3886/ICPSR03607.v1</IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty>United States Department of Education. National Center for Education Statistics</AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <producer>Please see full citation.</producer>
+      </prodStmt>
+      <distStmt>
+        <distrbtr>Ann Arbor, MI: Inter-university Consortium for Political and Social Research</distrbtr>
+        <distDate date="2003-02-19">2003-02-19</distDate>
+      </distStmt>
+      <serStmt>
+        <serName ID="Series99">National Household Education Survey (NHES) Series</serName>
+      </serStmt>
+      <verStmt>
+        <version date="2006-01-18">2006-01-18</version>
+        <notes>File UG3607.ALL.PDF was removed from any previous datasets and flagged as a study-level file, so that it will accompany all downloads.</notes>
+      </verStmt>
+      <biblCit>United States Department of Education. National Center for Education Statistics. National Household Education Survey, 1999. ICPSR03607-v1. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2003. http://doi.org/10.3886/ICPSR03607.v1</biblCit>
+      <holdings>http://doi.org/10.3886/ICPSR03607.v1</holdings>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <keyword vocab="thesaurus">adult education</keyword>
+        <keyword vocab="thesaurus">basic skills</keyword>
+        <keyword vocab="thesaurus">child development</keyword>
+        <keyword vocab="thesaurus">classroom environment</keyword>
+        <keyword vocab="thesaurus">community participation</keyword>
+        <keyword vocab="thesaurus">early childhood education</keyword>
+        <keyword vocab="thesaurus">educational programs</keyword>
+        <keyword vocab="thesaurus">English as a Second Language</keyword>
+        <keyword vocab="thesaurus">families</keyword>
+        <keyword vocab="thesaurus">home environment</keyword>
+        <keyword vocab="thesaurus">households</keyword>
+        <keyword vocab="thesaurus">parental attitudes</keyword>
+        <keyword vocab="thesaurus">parental influence</keyword>
+        <keyword vocab="thesaurus">participation</keyword>
+        <keyword vocab="thesaurus">secondary education</keyword>
+        <keyword vocab="thesaurus">youths</keyword>
+        <topcClas source="archive" vocab="CCEERC subject classifications">CCEERC II. Parents and Families</topcClas>
+        <topcClas source="archive" vocab="CCEERC subject classifications">CCEERC XII. Parent, School, and Community School Readiness/Child School Success and Performance</topcClas>
+        <topcClas source="archive" vocab="CCEERC subject classifications">CCEERC XII.C. School Performance and Success</topcClas>
+        <topcClas source="archive" vocab="ICPSR subject classifications">ICPSR V.A. Education, United States</topcClas>
+        <topcClas source="archive" vocab="CCEERC subject classifications">CCEERC I. Children and Child Development</topcClas>
+        <topcClas source="archive" vocab="CCEERC subject classifications">CCEERC I.B. Child Development and School Readiness</topcClas>
+        <topcClas source="archive" vocab="RCMD subject classifications">RCMD III. Education</topcClas>
+      </subject>
+      <abstract>The National Household Education Survey (NHES) reports on the condition of education in the United States by collecting data at the household level rather than using a traditional, school-based data collection system. The surveys attempt to address many current issues in education, such as preprimary education, school safety and discipline, adult education, and activities related to citizenship. This survey included three topical survey components: a Parent Interview, a Youth Interview, and an Adult Education Interview. The Parent Interview (Part 1, Parent Survey Data) collected data on a variety of topics, including early childhood program participation, types and frequency of family involvement in children's schooling, school practices to involve and support families, learning activities with children outside of school, and plans for their children's postsecondary education. The Adult Education Interview (Part 2, Adult Education Survey Data) gathered data on type of adult education program enrolled in, employer support, and degree sought for six types of adult educational activities, including English as a second language, adult basic education, credential programs, apprenticeships, work-related courses, and personal development courses. The Youth Interview (Part 3, Youth Survey Data) elicited information from youths in the 6th through 12th grades whose parents had completed a Parent Interview. Respondents were asked about school and family environments, civic involvement and community service, and plans for postsecondary education.</abstract>
+      <sumDscr>
+        <timePrd event="single" date="1999">1999</timePrd>
+        <collDate cycle="P1" event="start" date="1999-01">1999-01</collDate>
+        <collDate cycle="P1" event="end" date="1999-04">1999-04</collDate>
+        <nation>Please see geographic coverage.</nation>
+        <geogCover>United States</geogCover>
+        <universe>National sample of household members in the United States.</universe>
+        <dataKind>survey data</dataKind>
+      </sumDscr>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <sampProc>National sample of households.</sampProc>
+        <sources>
+          <dataSrc>random-digit-dial (RDD) computer-assisted telephone interview (CATI)</dataSrc>
+        </sources>
+        <cleanOps>
+          <p>ICPSR data undergo a confidentiality review and are altered when necessary to limit the risk of disclosure. ICPSR also routinely creates ready-to-go data files along with setups in the major statistical software formats as well as standard codebooks to accompany the data. In addition to these procedures, ICPSR performed the following processing steps for this data collection:</p>
+          <list type="bulleted">
+            <itm>Checked for undocumented or out-of-range codes.</itm>
+          </list>
+        </cleanOps>
+      </dataColl>
+    </method>
+    <dataAccs>
+      <setAvail media="online">
+        <accsPlac URI="http://doi.org/10.3886/ICPSR03607.v1">Ann Arbor, Mi.: Inter-university Consortium for Political and Social Research</accsPlac>
+      </setAvail>
+      <useStmt>
+        <conditions>
+          <p>Terms of use are available at http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3607/terms</p>
+          <p>AVAILABLE. This study is freely available to the general public.</p>
+        </conditions>
+        <disclaimer>The original collector of the data, ICPSR, and the relevant funding agency bear no responsibility for use of the data or for interpretations or inferences based upon such uses.</disclaimer>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <fileDscr>
+    <fileTxt>
+      <fileName>DS1: Parent Survey Data</fileName>
+    </fileTxt>
+  </fileDscr>
+  <fileDscr>
+    <fileTxt>
+      <fileName>DS2: Adult Education Survey Data</fileName>
+    </fileTxt>
+  </fileDscr>
+  <fileDscr>
+    <fileTxt>
+      <fileName>DS3: Youth Survey Data</fileName>
+    </fileTxt>
+  </fileDscr>
+</codeBook>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<accessLevel>public</accessLevel>
+	<accrualPeriodicity>R/P0.33W</accrualPeriodicity>
+	<bureauCode>005:45</bureauCode>
+	<contactPoint>
+		<@type>vcard:Contact</@type>
+		<fn>Edward Ragland</fn>
+		<hasEmail>mailto:DirectoryUpdates@ams.usda.gov</hasEmail>
+	</contactPoint>
+	<description>Longitude and latitude, state, address, name, and zip code of Farmers Markets in the United States</description>
+	<distribution>
+		<@type>dcat:Distribution</@type>
+		<downloadURL>https://www.ams.usda.gov/AMSv1.0/getfile?dDocName=STELPRDC5087258</downloadURL>
+		<mediaType>application/vnd.ms-excel</mediaType>
+		<title>Web Page</title>
+	</distribution>
+	<identifier>USDA-4383</identifier>
+	<issued>2010-10-01</issued>
+	<keyword>Baked Goods</keyword>
+	<keyword>Butter</keyword>
+	<keyword>Cheese</keyword>
+	<keyword>Crafts</keyword>
+	<keyword>Dairy</keyword>
+	<keyword>Direct to Consumer</keyword>
+	<keyword>Farmers Markets</keyword>
+	<keyword>Flowers</keyword>
+	<keyword>Fresh Fruit</keyword>
+	<keyword>Herbs</keyword>
+	<keyword>Honey</keyword>
+	<keyword>Local Food</keyword>
+	<keyword>Maple</keyword>
+	<keyword>Meat</keyword>
+	<keyword>Nuts</keyword>
+	<keyword>Organic</keyword>
+	<keyword>Plants</keyword>
+	<keyword>Prepared Food</keyword>
+	<keyword>Preserves</keyword>
+	<keyword>Processed Food</keyword>
+	<keyword>Seafood</keyword>
+	<keyword>Vegetables</keyword>
+	<keyword>Yogurt</keyword>
+	<license>https://creativecommons.org/licenses/by/4.0</license>
+	<modified>2014-12-23</modified>
+	<programCode>005:047</programCode>
+	<publisher>
+		<@type>org:Organization</@type>
+		<name>Agricultural Marketing Service, Department of Agriculture</name>
+	</publisher>
+	<references>https://apps.ams.usda.gov/FarmersMarketsExport/ExcelExport.aspx</references>
+	<spatial>United States</spatial>
+	<title>Farmers Markets Directory and Geographic Data</title>
