@@ -1,0 +1,12 @@
+
+http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_eol.php
+
+<--- Alternative links -------> 
+
+EOL: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_eol.php
+
+NCBI taxonomy: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_ncbi.php
+
+uBio FindIT: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_ubio.php GBIF: http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_gbif.php
+
+Global Names Index:http://iphylo.org/~rpage/phyloinformatics/services/reconciliation_globalnames.php
