@@ -1,0 +1,42 @@
+<!-- For Prefix -->
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+<dwr:DarwinRecordSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://rs.tdwg.org/dwc/dwcrecord/  http://rs.tdwg.org/dwc/xsd/tdwg_dwc_classes.xsd"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:dwr="http://rs.tdwg.org/dwc/dwcrecord/"> 
+    
+<!-- For Row Template -->
+
+<dwr:DarwinCoreRecord>
+    <dcterms:Location>
+        <dwc:country>{{jsonize(cells["country"].value)}}</dwc:country>
+        <dwc:stateProvince>{{jsonize(cells["stateProvince"].value)}}</dwc:stateProvince>
+        <dwc:locality>{{jsonize(cells["locality"].value)}}</dwc:locality>
+    </dcterms:Location>
+     <dwc:Occurrence>
+        <dcterms:type>{{jsonize(cells["type"].value)}}</dcterms:type>
+        <dwc:institutionCode>{{jsonize(cells["ownerInstitutionCode"].value)}}</dwc:institutionCode>
+        <dwc:collectionCode>{{jsonize(cells["collectionCode"].value)}}</dwc:collectionCode>
+        <dwc:basisOfRecord>{{jsonize(cells["basisOfRecord"].value)}}</dwc:basisOfRecord>
+    </dwc:Occurrence>
+    <dwc:Identification>
+      <dwc:identifiedBy>{{jsonize(cells["identifiedBy"].value)}}</dwc:identifiedBy>
+    </dwc:Identification>
+    <dwc:Taxon>
+      <dwc:taxonID>{{jsonize(cells["UBioID"].value)}}</dwc:taxonID>
+      <dwc:scientificName>{{jsonize(cells["scientificName"].value)}}</dwc:scientificName>
+      <dwc:genus>{{jsonize(cells["genus"].value)}}</dwc:genus>
+      <dwc:specificEpithet>{{jsonize(cells["specificEpithet"].value)}}</dwc:genus>
+      <dwc:higherClassification>{{jsonize(cells["higherClassification"].value)}}</dwc:higherClassification>     
+    </dwc:Taxon>
+ </dwr:DarwinCoreRecord>
+ 
+ 
+<!-- Don't put anything in Row Separator -->
+ 
+<!-- For Suffix -->
+
+</dwr:DarwinRecordSet>
